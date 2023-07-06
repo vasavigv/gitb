@@ -1,2 +1,5 @@
 Devops Engineer
-git jenkons
+git jenkins
+aws
+
+
